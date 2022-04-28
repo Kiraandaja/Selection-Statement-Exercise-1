@@ -1,0 +1,5 @@
+/Users/takiragray/Desktop/Repos/SelectionStatementExercise/SelectionStatement/obj/Debug/netcoreapp3.1/SelectionStatement.csproj.AssemblyReference.cache
+/Users/takiragray/Desktop/Repos/SelectionStatementExercise/SelectionStatement/obj/Debug/netcoreapp3.1/SelectionStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/takiragray/Desktop/Repos/SelectionStatementExercise/SelectionStatement/obj/Debug/netcoreapp3.1/SelectionStatement.AssemblyInfoInputs.cache
+/Users/takiragray/Desktop/Repos/SelectionStatementExercise/SelectionStatement/obj/Debug/netcoreapp3.1/SelectionStatement.AssemblyInfo.cs
+/Users/takiragray/Desktop/Repos/SelectionStatementExercise/SelectionStatement/obj/Debug/netcoreapp3.1/SelectionStatement.csproj.CoreCompileInputs.cache
